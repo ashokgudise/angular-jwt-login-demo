@@ -14,7 +14,7 @@
     <licenses>
         <license>
             <name>MIT license</name>
-            <url>https://raw.githubusercontent.com/szerhusenBC/jwt-spring-security-demo/master/LICENSE</url>
+            <url>https://github.com/ashokgudise/angular-jwt-login-demo/LICENSE</url>
         </license>
     </licenses>
 
@@ -26,9 +26,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/szerhusenBC/jwt-spring-security-demo.git</connection>
+        <connection>scm:git:git://https://github.com/ashokgudise/angular-jwt-login-demo.git</connection>
         <url>https://github.com/szerhusenBC/jwt-spring-security-demo</url>
-        <developerConnection>scm:git:git@github.com/szerhusenBC/jwt-spring-security-demo.git</developerConnection>
+        <developerConnection>scm:git:git@https://github.com/ashokgudise/angular-jwt-login-demo.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
@@ -125,7 +125,7 @@
         </plugins>
     </build>
 
-    <profiles>
+    <!--<profiles>
         <profile>
             <id>findbugs</id>
             <activation>
@@ -152,6 +152,6 @@
                 </plugins>
             </build>
         </profile>
-    </profiles>
+    </profiles>-->
 
 </project>
